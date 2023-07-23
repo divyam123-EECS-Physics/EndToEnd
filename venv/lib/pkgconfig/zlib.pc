@@ -1,0 +1,13 @@
+prefix=/Users/divyamgoel/Desktop/All/Projects/endtoend/EndToEnd/venv
+exec_prefix=/Users/divyamgoel/Desktop/All/Projects/endtoend/EndToEnd/venv
+libdir=/Users/divyamgoel/Desktop/All/Projects/endtoend/EndToEnd/venv/lib
+sharedlibdir=/Users/divyamgoel/Desktop/All/Projects/endtoend/EndToEnd/venv/lib
+includedir=/Users/divyamgoel/Desktop/All/Projects/endtoend/EndToEnd/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
