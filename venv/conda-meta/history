@@ -136,3 +136,16 @@
 +defaults/osx-arm64::markupsafe-2.1.1-py311h80987f9_0
 +defaults/osx-arm64::werkzeug-2.2.3-py311hca03da5_0
 # update specs: ['flask']
+==> 2023-07-25 12:40:52 <==
+# cmd: /Users/divyamgoel/opt/anaconda3/bin/conda install django
+# conda version: 22.9.0
++defaults/osx-arm64::asgiref-3.5.2-py311hca03da5_0
++defaults/osx-arm64::django-4.1-py311hca03da5_0
++defaults/osx-arm64::sqlparse-0.4.3-py311hca03da5_0
+# update specs: ['django']
+==> 2023-07-26 09:13:24 <==
+# cmd: /Users/divyamgoel/opt/anaconda3/bin/conda install pip
+# conda version: 22.9.0
+-defaults/osx-arm64::pip-23.1.2-py311hca03da5_0
++defaults/osx-arm64::pip-23.2.1-py311hca03da5_0
+# update specs: ['pip']
